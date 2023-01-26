@@ -1,0 +1,9 @@
+.sitebar {
+  width: sidebar-width;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: #ccc;
+  z-index: z-index-sitebar;
+}/*# sourceMappingURL=sitebar.css.map */
